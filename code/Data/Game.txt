@@ -1,0 +1,7 @@
+Bakgrund:
+bakgrund
+Images/game_background_blue.png
+1 1
+0.5 0.5
+
+EOF

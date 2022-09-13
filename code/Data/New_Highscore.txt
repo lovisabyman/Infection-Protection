@@ -1,0 +1,42 @@
+Bakgrund:
+bakgrund
+Images/purple_background.png
+1 1
+0.5 0.5
+
+Anders:
+anders
+Images/player_end.png
+0.2  0.42
+0.06 0.30
+
+Bubble:
+bubble
+Images/bubble_new_highscore.png
+0.02  0.03
+0.19 0.17
+
+Bubble2:
+bubble2
+Images/bubble_new_highscore.png
+0.025  0.04
+0.23 0.14
+
+Bubble3:
+bubble3
+Images/bubble_new_highscore.png
+0.03  0.05
+0.28 0.095
+
+Message:
+message
+Images/important_message.png
+0.17  0.22
+0.41 0.11
+
+OK:
+ok
+Images/ok_button.png
+0.15 0.17
+0.8 0.5
+EOF

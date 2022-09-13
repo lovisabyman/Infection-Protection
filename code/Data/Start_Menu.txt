@@ -1,0 +1,44 @@
+Bakgrund:
+bakgrund
+Images/purple_background.png
+1 1
+0.5 0.5
+
+Virus1:
+virus1
+Images/virus.png
+0.25 0.35
+0.8 0.25
+
+Virus2:
+virus2
+Images/virus.png
+0.25 0.35
+0.2 0.45
+
+Play:
+play
+Images/play_button.png
+0.17 0.13
+0.5 0.65
+
+Title:
+title
+Images/game_title.png
+0.75 0.55
+0.5 0.3
+
+Highscore:
+highscore
+Images/highscore_button.png
+0.3 0.13
+0.19 0.86
+
+Hjälpmenu:
+help
+Images/help_button.png
+0.17 0.13
+0.77 0.86
+
+
+EOF
